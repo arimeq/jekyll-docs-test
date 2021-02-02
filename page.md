@@ -7,7 +7,7 @@
 A tu będzie lista:
 
 1. Pierwszy punkt
-2. Drugi ponkt, z podpunktami:
+2. Drugi punkt, z podpunktami:
    1. Pierwszy podpunkt
    2. Drugi podpunkt
 3. I znowu główna lista
