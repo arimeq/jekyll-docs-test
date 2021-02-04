@@ -1,9 +1,3 @@
----
-title: First child page
-parent: Main page
-nav_order: 1
----
-
 ## To jest testowa strona
 
 | Lp. | Pierwsza kolumna         | Druga kolumna         |
