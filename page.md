@@ -11,3 +11,5 @@ A tu będzie lista:
    1. Pierwszy podpunkt
    2. Drugi podpunkt
 3. I znowu główna lista
+
+A tutaj będzie [link do podstrony](subpages/subpage1), ciekawe, czy zadziała.
