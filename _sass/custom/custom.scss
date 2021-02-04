@@ -1,0 +1,11 @@
+.site-title {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.site-title::before {
+  content: open-quote;
+}
+
+.site-title::after {
+  content: close-quote;
+}
