@@ -1,5 +1,3 @@
 remote_theme: pmarsceill/just-the-docs
 color_scheme: arim
 logo: "/assets/images/site_logo.png"
-baseurl: "/jekyll-docs-test"
-url: "https://arimeq.github.io"

@@ -32,4 +32,4 @@ export class Blog {
 
 Above code block should be rendered with `Fira Code` font.
 
-Test image: ![logo](/assets/images/site_logo.png)
+Test image: ![logo](/jekyll-docs-test/assets/images/site_logo.png)
